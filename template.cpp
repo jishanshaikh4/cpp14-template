@@ -5,9 +5,9 @@
 #include <bits/stdc++.h> // Be on safer side always!
 
 // Some handful definitions used frequently
-#define mod 			    1000000007
+#define mod 			  1000000007
 #define fastio() 		  ios_base::sync_with_stdio(false);cin.tie(NULL);cout.tie(NULL)
-#define ll 				    long long
+#define ll 			  long long
 #define mp(x, y) 		  make_pair(x, y)
 #define f 				    first
 #define s 				    second
