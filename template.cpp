@@ -117,6 +117,19 @@ int main(){
 	gs(s);
 	cout << i << endl << j << endl << k << endl;
 	cout << s;
-	// Code execution starts here
+	int t;
+	cin >> t; // Please don't forgot to take input t; it hurts a lot.
+	while(t--){
+		int n;
+		cin >> n;
+		vector <int> arr(n, 0);
+		for(int i = 0; i < n; i++){
+			cin >> arr[i];
+		}
+		for(int i = 0; i < n; i++){
+			cout << arr[i] << " ";
+		}
+		cout << endl;
+	}
 	return 0;
 }
