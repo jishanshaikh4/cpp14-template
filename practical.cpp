@@ -1,5 +1,6 @@
 // File.cpp from PROBLEM+SETTER
 // AUTHOR: Jishan Shaikh
+// Approach: DP
 
 #include <bits/stdc++.h>
 
