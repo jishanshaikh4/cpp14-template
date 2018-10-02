@@ -9,8 +9,8 @@
 #define fastio() 		  ios_base::sync_with_stdio(false);cin.tie(NULL);cout.tie(NULL)
 #define ll 			  long long
 #define mp(x, y) 		  make_pair(x, y)
-#define f 				    first
-#define s 				    second
+#define f 			  first
+#define s 			  second
 #define sd(x) 			  scanf("%d", &x)
 #define sd2(x, y) 		scanf("%d%d", &x, &y)
 #define sd3(x, y, z) 	scanf("%d%d%d", &x, &y, &z)
