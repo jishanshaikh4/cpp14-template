@@ -11,7 +11,7 @@ using namespace std;
 
 // Predefined functions may be modular exponentiation, etc.
 
-__int128 main(){
+__int128 main(){ // For safety side, will works for all type of C++ compilers
   FastIO()
   
   // Your code goes here.
