@@ -106,7 +106,7 @@ void gs(string &r){ // String version of cin/scanf but VERY FAST for larger inpu
 	}
 }
 
-// The main function
+// The main function, driver function required in cpp14
 int main(){
 	fastio(); // Untie-ing the cin with stdio.
 	int i, j, k;
