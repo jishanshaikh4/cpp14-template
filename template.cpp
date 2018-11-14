@@ -1,11 +1,11 @@
 // Let's try something newwwwwwwwww
 // Code *NAME_HERE* prepared for *auction* by Jishan Shaikh via template.
-// To be run as C++14
+// To be run by C++14 gcc compiler
 
 #include <bits/stdc++.h> // Be on safer side always!
 
 // Some handful definitions used frequently
-#define mod 			  1000000007
+#define mod 			  1000000007		// Change it if there is any other requirements
 #define fastio() 		  ios_base::sync_with_stdio(false);cin.tie(NULL);cout.tie(NULL)
 #define ll 			  long long
 #define mp(x, y) 		  make_pair(x, y)
@@ -20,13 +20,13 @@
 #define pb(x) 			  push_back(x)
 
 // For definition of personal version of cin for int and string as gi and gs
-#define gc				    getchar_unlocked
+#define gc			getchar_unlocked
 #ifndef getchar_unlocked
 #define getchar_unlocked 	getchar
 #endif
 
 using namespace std;
-// Its preferable NOT to use any element of std in harder problems!!!
+// Its preferable NOT to use any element of std in harder, bigger, application level problems!!!
 
 // Utility functions
 string inttostr(ll str){ // Worst case time complexity: O(characters_in_str)
@@ -107,6 +107,7 @@ void gs(string &r){ // String version of cin/scanf but VERY FAST for larger inpu
 }
 
 // The main function, driver function required in cpp14
+// The driver (main) function can also be of __int128 return type for modern compilers such as C++17, so check it also.
 int main(){
 	fastio(); // Untie-ing the cin with stdio.
 	int i, j, k;
