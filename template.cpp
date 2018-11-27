@@ -1,6 +1,6 @@
 // Let's try something newwwwwwwwww
 // Code *NAME_HERE* prepared for *auction* by Jishan Shaikh via template.
-// To be run by C++14 gcc compiler
+// To be run by C++14 gcc compiler, not compatible for C++11
 
 #include <bits/stdc++.h> // Be on safer side always!
 
