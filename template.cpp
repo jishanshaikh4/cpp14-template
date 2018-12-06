@@ -1,4 +1,4 @@
-// Let's try something newwwwwwwwww
+// Let's try something neww
 // Code *NAME_HERE* prepared for *auction* by Jishan Shaikh via template.
 // To be run by C++14 gcc compiler, not compatible for C++11
 
