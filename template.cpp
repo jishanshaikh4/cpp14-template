@@ -13,11 +13,11 @@
 #define s 			  second
 #define sd(x) 			  scanf("%d", &x)
 #define sd2(x, y) 		scanf("%d%d", &x, &y)
-#define sd3(x, y, z) 	scanf("%d%d%d", &x, &y, &z)
-#define sdl(x) 			  scanf("%lld", &x)
+#define sd3(x, y, z) 		scanf("%d%d%d", &x, &y, &z)
+#define sdl(x) 			scanf("%lld", &x)
 #define sdl2(x, y) 		scanf("%lld%lld", &x, &y)
-#define sdl3(x, y, z) scanf("%lld%lld%lld", &x, &y, &z)
-#define pb(x) 			  push_back(x)
+#define sdl3(x, y, z) 		scanf("%lld%lld%lld", &x, &y, &z)
+#define pb(x) 			push_back(x)
 
 // For definition of personal version of cin for int and string as gi and gs
 #define gc			getchar_unlocked
