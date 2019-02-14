@@ -1,4 +1,4 @@
-# cpp14-template
+# :collision: cpp14-template
 A general template for programming contests with implementations of most used functions such as gcd, lcm, etc.
 
 ## Why use template?
